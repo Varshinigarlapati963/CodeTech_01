@@ -30,9 +30,6 @@ Use dark theme for high contrast visuals
 Use blue shades for weather-related data
 
 Use slicers and filters to make the dashboard interactive
-# Link To My DashBoard
-https://mitsacin-my.sharepoint.com/:u:/g/personal/23691a32h8_mits_ac_in/EZ4pYa5V_5xPuCEmYt53dh4BEan_aKPxiMbMFs_1S2rjfQ?e=umfALn
-
 
 
 
